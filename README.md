@@ -1,150 +1,147 @@
-<!-- Animated Typing Intro -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=700&color=FFA500&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ojas+Sonawane;Backend+%26+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Cloud+%7C+AI" alt="Typing SVG" />
+  <img width="1536" height="1024" alt="ChatGPT Image Dec 8, 2025, 11_41_11 AM" src="https://github.com/user-attachments/assets/988056bc-3a83-453d-92ac-c569f013cdb7" />
+
 </p>
 
-<!-- Contact / Social -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey+I'm+Ojas+Sonawane;Third+Year+Engineering+Student;B.Tech+Information+Technology;Minor+in+Artificial+Intelligence+%26+Machine+Learning" />
+</p>
+
 <p align="center">
   <a href="mailto:ojassonawane13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Me-111827?style=for-the-badge&logo=gmail&logoColor=F9FAFB&labelColor=020617" />
   </a>
-  <a href="https://ojas-sonawane.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio">
+  <a href="https://linkedin.com/in/ojas-sonawane">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617" />
   </a>
-  <a href="https://linkedin.com/in/ojas-sonawane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  <a href="https://ojas-sonawane.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel&logoColor=F9FAFB&labelColor=020617" />
   </a>
-  <!-- Profile views: use a strong orange for visibility -->
-  <img src="https://komarev.com/ghpvc/?username=OjasSonawane&label=Profile%20Views&style=for-the-badge&color=FFA500" alt="Profile Views"/>
 </p>
 
-<h1 align="center">👋🏻 Hey, I'm Ojas Sonawane</h1>
-
-<p align="center">
-  🎓 <b>B.Tech IT (Minor in AIML)</b> • 💻 <b>Backend & Full-Stack Developer | Open-Source Contributor</b><br/>
-  🚀 Passionate about <b>Java, Spring Boot, Cloud, and AI-driven Apps</b>
-</p>
+<h2 align="center">Third Year • B.Tech Information Technology • Minor in AIML</h2>
 
 ---
 
-## ⚡ Highlights (What I bring)
-- Designed secure, production-style **Spring Boot** APIs (JWT, layered validation, observability)
-- Built AI + web experiences (voice assistant, chatbot, realtime apps)
-- Comfortable across **Java / React / Node / AWS / Firebase / SQL & NoSQL**
-- Active in open source & leadership; clear docs, clean commits, and tests
+## ✨ About Me
 
----
-
-## 🧠 About Me
-- Exploring **LLMs & Cloud APIs** via projects and internships  
-- Building secure APIs with **Spring Boot, JWT, MySQL**  
-- Learning **DevOps (AWS, Docker)** and **Frontend (React)**  
-- Open to collaborate on **AI × Web** or **Java backend** projects
+- Third Year Engineering student specializing in **Information Technology**
+- Pursuing a **Minor in Artificial Intelligence & Machine Learning**
+- Interested in **backend systems, cloud, and AI-enabled applications**
+- Enjoy building **clean, maintainable APIs** and **data-driven projects**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🖥️ Backend
+### Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-0B1120?style=for-the-badge&logo=openjdk&logoColor=F9FAFB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0B1120?style=for-the-badge&logo=springboot&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Hibernate-0B1120?style=for-the-badge&logo=hibernate&logoColor=EAB308" />
+  <img src="https://img.shields.io/badge/MySQL-0B1120?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/MongoDB-0B1120?style=for-the-badge&logo=mongodb&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/JWT-0B1120?style=for-the-badge&logo=jsonwebtokens&logoColor=F9FAFB" />
 </p>
 
-### ☁️ AI & Cloud
+### AI & Cloud
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Gemini_API-FF8C00?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-121212?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FBBF24" />
+  <img src="https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Gemini_API-020617?style=for-the-badge&logo=google&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/LLMs-020617?style=for-the-badge&logo=openai&logoColor=F9FAFB" />
 </p>
 
-### 🌐 Frontend
+### Frontend (Supporting)
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/HTML-020617?style=for-the-badge&logo=html5&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/CSS-020617?style=for-the-badge&logo=css3&logoColor=38BDF8" />
 </p>
 
-### ⚙️ Tools & Platforms
+### Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-</p>
-
-### 💡 Others
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F9FAFB" />
+  <img src="https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=FB923C" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-020617?style=for-the-badge&logo=intellijidea&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/SonarQube-020617?style=for-the-badge&logo=sonarqube&logoColor=38BDF8" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 HealthGuard AI  &nbsp; <sub>[<a href="https://github.com/OjasSonawane/Healthguard-AI">Repo ↗</a>]</sub>
-AI healthcare assistant with **voice** + chatbot (Gemini API).  
+### 🔶 SolarVision – AI-Powered Solar Analytics  
+**Repo:** https://github.com/OjasSonawane/solarvision  
+
+Simulates solar plant IoT data, performs ML-based power forecasting, and visualizes key KPIs on a modern dashboard.
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
+  <img src="https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=FACC15" />
 </p>
 
 ---
 
-### 🔹 Payments API  &nbsp; <sub>[<a href="https://github.com/OjasSonawane/Domestic-Payments">Repo ↗</a>]</sub>
-Secure Spring Boot payments with **JWT**, validations, **AWS RDS**, and **SonarQube**.  
+### HealthGuard AI  
+**Repo:** https://github.com/OjasSonawane/Healthguard-AI  
+
+AI healthcare companion with voice and chat powered by Gemini API.
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Gemini_API-020617?style=for-the-badge&logo=google&logoColor=60A5FA" />
 </p>
 
 ---
 
-### 🔹 CloudShare  &nbsp; <sub>[<a href="https://github.com/OjasSonawane/CloudShare">Repo ↗</a>]</sub>
-Realtime file-sharing with **expiring links** and optional auth.  
+### Domestic Payments API  
+**Repo:** https://github.com/OjasSonawane/Domestic-Payments  
+
+Spring Boot payments API with JWT auth, validations, and AWS RDS integration.
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/> 
-  <img src="https://img.shields.io/badge/HTML%2FCSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-020617?style=for-the-badge&logo=springboot&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F9FAFB" />
+  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OjasSonawane&theme=highcontrast&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500&dates=FFA500&background=0d1117&hide_border=true&card_width=900" alt="GitHub Streak" width="88%"/>
-</p>
+### CloudShare  
+**Repo:** https://github.com/OjasSonawane/CloudShare  
+
+Realtime file sharing with expiring links and cloud storage.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjasSonawane&layout=compact&theme=highcontrast&hide_border=true&title_color=FFA500&text_color=FFFFFF&card_width=900" alt="Top Languages" width="60%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OjasSonawane&theme=onestar&no-frame=true&no-bg=true&title=Commits,PullRequest,Repositories,Followers,Stars,Issues&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%"/>
+  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/HTML/CSS-020617?style=for-the-badge&logo=css3&logoColor=38BDF8" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 📊 GitHub Overview
+
 <p align="center">
-  <a href="mailto:ojassonawane13@gmail.com"><b>Email</b></a> •
-  <a href="https://linkedin.com/in/ojas-sonawane"><b>LinkedIn</b></a> •
+  <img src="https://streak-stats.demolab.com?user=OjasSonawane&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjasSonawane&layout=compact&theme=highcontrast&hide_border=true&title_color=FFFFFF" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:ojassonawane13@gmail.com"><b>Email</b></a> ·
+  <a href="https://linkedin.com/in/ojas-sonawane"><b>LinkedIn</b></a> ·
   <a href="https://ojas-sonawane.github.io"><b>Portfolio</b></a>
 </p>
