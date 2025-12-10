@@ -21,146 +21,60 @@ I am a <b>Backend & AI Engineer</b> passionate about designing <b>distributed ba
 
 ---
 
-# ⚙️ Skills
+## ⚙️ Skills
 
-<div align="center">
+### 💻 Languages
+<div align="left">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Programming Languages
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <span>Java</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <span>Python</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <span>C++</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <span>C</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <span>JavaScript</span>
-</div>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
 
 </div>
+
+---
 
 ### 📚 Frameworks & Libraries
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
+<div align="left">
 
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <span>Spring Boot</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-  <span>FastAPI</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <span>React</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <span>Node.js</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <span>Angular</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-  <span>NumPy</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <span>Pandas</span>
-</div>
+  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas" />
 
 </div>
 
-</td>
-<td width="50%" valign="top">
-
-### 🛠 Tools & Platforms
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <span>Git</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <span>GitHub</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <span>VS Code</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-  <span>IntelliJ IDEA</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-  <span>Postman</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  <span>Firebase</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-  <span>AWS</span>
-</div>
-
-</div>
+---
 
 ### 🗄 Databases
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
+<div align="left">
 
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <span>MySQL</span>
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1);">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <span>MongoDB</span>
-</div>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=database" />
 
 </div>
 
-</td>
-</tr>
-</table>
+---
+
+### 🛠 Tools & Platforms
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws" />
+
 </div>
+
 
 
 ---
